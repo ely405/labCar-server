@@ -1,0 +1,15 @@
+{
+  "name": "labcar",
+  "version": "0.0.1",
+  "description": "aplicación para pedir taxi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ely",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
